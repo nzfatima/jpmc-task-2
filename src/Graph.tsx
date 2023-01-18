@@ -57,7 +57,8 @@ class Graph extends Component<IProps, {}> {
       {"stock": "distant count",
       "top_ask_price":"avg",
       "top_bid_price":"avg",
-      "timestamp":"distinct count"});
+      "timestamp":"distinct count"}
+      );
     }
   }
 
